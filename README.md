@@ -1,4 +1,5 @@
-# Traffic Flow Modelling Thesis
+# Traffic Flow Modelling Thesis - TEST REPOSITORY
+DISCLAIMER: The presented codes will be updated during the Summer of 2020 as previous thesis work will be expanded (Riemann solvers, Limiter functions, Stream models, etcetera).
 Source code for python based traffic flow modelling simulation for Cranfield University individual research project
 
 ## Model Capabilities
